@@ -15,3 +15,10 @@ The image must first be saved so as the thing looks for the '-' to complete.
 
 The class side of `HOImageSave` issues a `World resetMenu` to add the entry.
 
+```Smalltalk
+Metacello new
+    githubUser: 'pharophile' project: 'HOSImageSaver' commitish: 'master' path: 'packages';
+    baseline: 'HOImageSaver';
+    onWarningLog;
+    load
+```
