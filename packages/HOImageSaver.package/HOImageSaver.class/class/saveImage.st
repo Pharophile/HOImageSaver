@@ -14,7 +14,5 @@ saveImage
 	reference := (World openModal: fd) answer.
 	reference
 		ifNotNil: [ 
-			reference inspect.
-			
 			Smalltalk
 				saveAs: reference parent / (reference basenameWithoutExtension: 'image') ]

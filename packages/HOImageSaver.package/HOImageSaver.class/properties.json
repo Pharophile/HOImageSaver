@@ -7,7 +7,7 @@
 	"commentStamp" : "PhilippeBack 10/30/2016 16:23",
 	"instvars" : [
 		 ],
-	"name" : "HOSImageSaver",
+	"name" : "HOImageSaver",
 	"pools" : [
 		 ],
 	"super" : "DateAndTime",
