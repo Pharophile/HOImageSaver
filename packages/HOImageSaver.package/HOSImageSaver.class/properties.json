@@ -1,0 +1,14 @@
+{
+	"category" : "HOImageSaver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/30/2016 16:23",
+	"instvars" : [
+		 ],
+	"name" : "HOSImageSaver",
+	"pools" : [
+		 ],
+	"super" : "DateAndTime",
+	"type" : "normal" }
