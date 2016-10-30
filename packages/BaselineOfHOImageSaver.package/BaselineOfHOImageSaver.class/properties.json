@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfHOImageSaver",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfHOImageSaver",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
