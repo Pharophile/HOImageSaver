@@ -17,7 +17,7 @@ The class side of `HOImageSaver` issues a `World resetMenu` to add the entry. Bu
 
 ```Smalltalk
 Metacello new
-    githubUser: 'pharophile' project: 'HOSImageSaver' commitish: 'master' path: 'packages';
+    githubUser: 'pharophile' project: 'HOImageSaver' commitish: 'master' path: 'packages';
     baseline: 'HOImageSaver';
     onWarningLog;
     load
